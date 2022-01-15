@@ -176,7 +176,7 @@ function Reviews() {
       id:22,
       title: "open-source New Montana encoding Account Human software Micronesia Small Plastic",
       cover: "http://placeimg.com/600/400/nightlife",
-      summary: "Sunt odio aut eaque quis nihil. Doloremque hic est magnam ea unde similique veritatis perspiciatis. Similique rerum autem magni. Laborum ipsam qui facilis ut consequatur eius inventore quibusdam.",
+      summary: "Sunt odio aut eaque quis nihil. Doloremque hic est magnam ea unde similique veritatis perspiciatis. Similique rerum autem magni.",
       bookmarked: true,
       likes: 18
     },
@@ -208,7 +208,7 @@ function Reviews() {
       id:26,
       title: "Usability metrics Ball Checking interface Cotton fresh-thinking circuit strategize Granite Direct",
       cover: "http://placeimg.com/600/400/nightlife",
-      summary: "Enim ipsum numquam. Odit esse itaque consequatur delectus sequi sequi. Cupiditate quas exercitationem doloremque accusantium voluptates suscipit quis ut ipsam.",
+      summary: "Enim ipsum numquam. Odit esse itaque consequatur delectus sequi sequi. Cupiditate quas exercitationem doloremque accusantium voluptates suscipit.",
       bookmarked: true,
       likes: 10
     },
@@ -216,7 +216,7 @@ function Reviews() {
       id:27,
       title: "Program Chair supply-chains Consultant 1080p hub bandwidth Automotive",
       cover: "http://placeimg.com/600/400/nightlife",
-      summary: "Iusto molestiae eius consectetur quod. Alias ut sint cum harum optio repudiandae ex temporibus. Aut unde cum. Iste est expedita perferendis rerum reprehenderit nostrum. Veritatis voluptas excepturi natus ipsa.",
+      summary: "Iusto molestiae eius consectetur quod. Alias ut sint cum harum optio repudiandae ex temporibus. Aut unde cum. Iste est expedita perferendis rerum.",
       bookmarked: false,
       likes: 1
     },
